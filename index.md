@@ -24,6 +24,7 @@
 - [Project 3 Title] (Colorectal Cancer molecular profiling)
 - [AACR 2023 poster](/pdf/AACR_2023_spatial.pdf)
 - [AACR 2024 poster](/pdf/AACR2024_6463_qz.pdf)
+- [AMP 2024 poster](/pdf/AMP_TSOsolid_2024-Vancova.pdf)
 
 
 ---
